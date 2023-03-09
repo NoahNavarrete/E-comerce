@@ -10,7 +10,7 @@ const NavBar = () => {
             <div className="pr-10"><a href="#">Desarrolladores</a></div>
         </div>
         <div className=" h-full bg-green-200 w-full flex justify-between items-center">
-            <div className="w-1/5">5</div>
+            <div className="w-1/5">logo </div>
             <div className="w-2/5 bg-pink-200">
                 <input className=" h-10 w-full">
                 </input>
