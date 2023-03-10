@@ -5,8 +5,8 @@ const NavBar = () => {
     return (
         <nav className="bg-red-300 h-20">
         <div className="bg-purple-200 w-full flex justify-end">
-            <div className="pr-10"><a href="#">Seguir mis Pedidos Ups</a></div>
-            <div className="pr-10"><a href="#">Seguir mi Pedido OCA</a></div>
+            <div className="pr-10"><a href="https://www.ups.com/track?loc=es_AR&requester=ST/">Seguir mis Pedidos Ups</a></div>
+            <div className="pr-10"><a href="https://www.oca.com.ar/Seguimiento/BuscarEnvio/paquetes"> <img url=".\img\van.svg"/>Seguir mi Pedido OCA</a></div>
             <div className="pr-10"><a href="#">Desarrolladores</a></div>
         </div>
         <div className=" h-full bg-green-200 w-full flex justify-between items-center">
